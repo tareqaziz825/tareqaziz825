@@ -16,7 +16,7 @@ export default function Home() {
         <h1 style={{ fontFamily: "'DM Serif Display', serif", fontSize: 'clamp(2.8rem, 6vw, 5.5rem)', lineHeight: 1.05, letterSpacing: '-0.02em', marginBottom: '1.5rem' }}>
           Mohammod<br />
           Tareq Aziz<br />
-          <em style={{ color: 'var(--accent2)' }}>Justice</em>
+          <em style={{ color: 'var(--accent2)', fontStyle: 'normal' }}>Justice</em>
         </h1>
         <p className="hero-sub">
           Machine Learning & Deep Learning enthusiast. Exploring the frontiers of spatiotemporal modeling, zero-shot learning, and computer vision to solve complex real-world problems.
