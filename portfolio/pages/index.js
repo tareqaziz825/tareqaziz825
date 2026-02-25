@@ -13,7 +13,11 @@ export default function Home() {
       {/* Hero */}
       <section style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', justifyContent: 'center', padding: '80px 2rem 4rem', maxWidth: '1100px', margin: '0 auto' }}>
         <div className="hero-eyebrow">CS Graduate · BRAC University · Dhaka</div>
-        <h1 style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: 'clamp(2.8rem, 6vw, 5.5rem)', lineHeight: 1.05, letterSpacing: '-0.02em', marginBottom: '1.5rem' }}>
+        {/* <h1 style={{ fontFamily: "'DM Serif Display', serif", fontSize: 'clamp(2.8rem, 6vw, 5.5rem)', lineHeight: 1.05, letterSpacing: '-0.02em', marginBottom: '1.5rem' }}>
+          Mohammod<br />
+          Tareq Aziz<br />
+          <em style={{ color: 'var(--accent2)', fontStyle: 'normal' }}>Justice</em> */}
+        <h1 style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: 'clamp(2.8rem, 6vw, 5.5rem)', lineHeight: 1.05, letterSpacing: '-0.02em', marginBottom: '1.5rem', textTransform: 'uppercase' }}>
           Mohammod<br />
           Tareq Aziz<br />
           <em style={{ color: 'var(--accent2)', fontStyle: 'normal' }}>Justice</em>
