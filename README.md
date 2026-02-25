@@ -59,6 +59,8 @@ Visit my portfolio at:
 
 ### **[https://tareqaziz825.github.io/](https://tareqaziz825.github.io/)**
 
+### **[https://tareqaziz825.vercel.app](https://tareqaziz825.vercel.app/)**
+
 ---
 
 ## 📞 Contact
