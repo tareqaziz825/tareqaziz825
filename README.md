@@ -56,7 +56,7 @@ Visit my portfolio at:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tareqaziz825/)
 
 ---
-
+<!--
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tareqaziz825&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tareqaziz825&theme=dark&hide_border=false)<br/>
@@ -70,7 +70,7 @@ Visit my portfolio at:
 [![](https://visitcount.itsvg.in/api?id=tareqaziz825&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
+-->
 <p align="center">
   <sub>Built with ❤️ by MOHAMMOD TAREQ AZIZ JUSTICE</sub>
 </p>
