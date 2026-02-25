@@ -19,14 +19,19 @@ portfolio/
 │   ├── Layout.js       # Nav, footer, theme toggle
 │   ├── FadeIn.js       # Scroll-triggered fade animations
 │   └── Connect.js      # Shared social/contact section
+
 ├── pages/
+│   ├──blog/
+|   |   └── [slug].js
 │   ├── _app.js
 │   ├── _document.js
 │   ├── index.js        # About / Hero
 │   ├── projects.js
 │   ├── education.js
 │   ├── skills.js
-│   └── experience.js
+│   |── experience.js
+│   └── blog.js
+
 ├── public/
 │   ├── profile.jpg
 │   ├── 400img.jpg
@@ -35,7 +40,9 @@ portfolio/
 │   ├── 427img.png
 │   ├── BRACU.svg
 │   ├── DPSchool.png
+│   ├── JESCollege.png
 │   └── MMCollege.png
+
 ├── styles/
 │   └── globals.css
 ├── next.config.js
