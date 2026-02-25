@@ -36,6 +36,14 @@ const education = [
     details: ['Education Board: Jashore', 'Major: General'],
     courses: [],
   },
+    {
+    logo: '/JESCollege.png',
+    degree: 'Primary School (PSC)',
+    // year: '2013',
+    institution: 'Jashore English School & College, Jashore',
+    details: ['Education Board: Jashore', 'Major: General'],
+    courses: [],
+  },
 ];
 
 export default function Education() {
