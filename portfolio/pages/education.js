@@ -9,8 +9,8 @@ const education = [
     degree: 'Bachelor of Science in Computer Science',
     year: 'Fall 2025',
     institution: 'BRAC University, Dhaka',
-    details: ['Focus Area: Artificial Intelligence', 'Thesis: Context-Aware Zero-Shot Anomaly Detection in Surveillance'],
-    courses: ['Data Science', 'Graph Theory', 'Advanced Artificial Intelligence', 'Symbolic ML-I'],
+    details: ['Focus Area: Deep Learning, Machine Learning', 'Thesis: Context-Aware Zero-Shot Anomaly Detection in Surveillance'],
+    courses: ['Machine Learning', 'Deep Leaning', 'TimeSformer', 'Transformer', 'CLIP'],
   },
   {
     logo: '/MMCollege.png',
