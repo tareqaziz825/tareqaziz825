@@ -7,7 +7,7 @@ const education = [
   {
     logo: '/BRACU.svg',
     degree: 'Bachelor of Science in Computer Science',
-    year: 'Fall 2025',
+    // year: 'Fall 2025',
     institution: 'BRAC University, Dhaka',
     details: ['Focus Area: Deep Learning, Machine Learning', 'Thesis: Context-Aware Zero-Shot Anomaly Detection in Surveillance'],
     courses: ['Machine Learning', 'Deep Leaning', 'TimeSformer', 'Transformer', 'CLIP'],
@@ -15,7 +15,7 @@ const education = [
   {
     logo: '/MMCollege.png',
     degree: 'Higher Secondary School (HSC)',
-    year: '2018',
+    // year: '2018',
     institution: 'Government Michael Madhusudan College, Jashore',
     details: ['Education Board: Jashore', 'Major: Science'],
     courses: [],
@@ -23,7 +23,7 @@ const education = [
   {
     logo: '/DPSchool.png',
     degree: 'Secondary School (SSC)',
-    year: '2016',
+    // year: '2016',
     institution: 'Daud Public School and College, Jashore',
     details: ['Education Board: Jashore', 'Major: Science'],
     courses: [],
@@ -31,7 +31,7 @@ const education = [
   {
     logo: '/DPSchool.png',
     degree: 'Junior School (JSC)',
-    year: '2013',
+    // year: '2013',
     institution: 'Daud Public School and College, Jashore',
     details: ['Education Board: Jashore', 'Major: General'],
     courses: [],
@@ -55,7 +55,7 @@ export default function Education() {
             {education.map((edu, i) => (
               <div key={i} className="edu-card">
                 <img src={edu.logo} alt={edu.institution} className="edu-logo" />
-                <div className="edu-year">{edu.year}</div>
+                {/* <div className="edu-year">{edu.year}</div> */}
                 <div className="edu-degree">{edu.degree}</div>
                 <div className="edu-institution">{edu.institution}</div>
                 {edu.details.map(d => (
