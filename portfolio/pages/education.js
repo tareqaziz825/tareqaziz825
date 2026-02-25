@@ -6,7 +6,7 @@ import Connect from '../components/Connect';
 const education = [
   {
     logo: '/BRACU.svg',
-    degree: 'Bachelor of Science in Computer Science',
+    degree: 'Bachelor of Science (B.Sc.) in Computer Science',
     // year: 'Fall 2025',
     institution: 'BRAC University, Dhaka',
     details: ['Focus Area: Deep Learning, Machine Learning', 'Thesis: Context-Aware Zero-Shot Anomaly Detection in Surveillance'],
