@@ -45,8 +45,7 @@ export default function Home() {
               <div className="profile-meta">
                 <span className="profile-meta-item">📍 Merul Badda, Dhaka</span>
                 <span className="profile-meta-item">🎓 B.Sc. Computer Science</span>
-                <span className="profile-meta-item">🏛 BRAC University</span>
-                <span className="profile-meta-item">📅 Graduated Fall 2025</span>
+                <span className="profile-meta-item">🏛 BRAC University, Dhaka</span>
               </div>
             </div>
             <div className="about-text">
